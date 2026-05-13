@@ -8,15 +8,22 @@ This is a personal portfolio website developed using WordPress to present my pro
 
 ## Tools Used
 -WordPress
+
 -Custom Domain
+
 -Responsive Design
+
 -Rank Math
+
 -Yoast
 
 ## Features
 -About Section
+
 -Project Showcase
+
 -Contact Form
+
 -SEO Optimized Blogs
 
 
